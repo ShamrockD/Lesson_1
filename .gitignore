@@ -9,6 +9,11 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.gitignore
+*
+!*.cs
+
+!Program.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
